@@ -6,7 +6,7 @@
 
 <!-- About -->
 <p align="center">
-  Hey there! I'm a Python developer with over 2 years of experience in Data Science. Developed a dozen supervised and unsupervised tasks, and familiar with computer vision and NLP. Programmer since 2017, and currently seeking a role in Data Science or Machine Learning.
+  Hey there! I'm a Python developer with over 2 years of experience in Data Science. Developed a dozen supervised and unsupervised tasks, and familiar with computer vision and NLP. Programmer since 2017, currently seeking a role in Data Science or Machine Learning.
 </p>
 
 
