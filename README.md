@@ -53,7 +53,7 @@
     <tr>
       <td width="54.65%" align="right" valign="top">
         <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=tabaraei&theme=ayu-mirage" alt="Streak Stats" />
-        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=tabaraei&show_icons=true&theme=ayu-mirage&hide=contribs,prs&include_all_commits=True&rank_icon=github" alt="Ali Tabaraei's GitHub Stats" />
+        <img style="width: 100%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tabaraei&show_icons=true&theme=ayu-mirage&hide=contribs,prs&include_all_commits=True&rank_icon=github" alt="Ali Tabaraei's GitHub Stats" />
       </td>
       <td width="45.35%" align="left" valign="top">
         <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaraei&langs_count=8&theme=ayu-mirage&layout=donut&hide=html,css,mathematica&size_weight=0.6&count_weight=0.4" alt="Most Used Languages" />
