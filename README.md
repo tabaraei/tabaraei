@@ -3,7 +3,6 @@
   <b>Ali Tabaraei</b>
 </h1>
 
-
 <!-- About -->
 <p align="center">
   Hey there! I'm a Python developer with over 2 years of experience in Data Science. Developed a dozen supervised and unsupervised tasks, and familiar with computer vision and NLP. Programmer since 2017, currently seeking a role in Data Science or Machine Learning.
@@ -13,6 +12,11 @@
 <div align="center">
   <img src="https://github.com/tabaraei/tabaraei/blob/main/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tabaraei/tabaraei/blob/main/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tabaraei/tabaraei/blob/main/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/tabaraei/tabaraei/blob/main/github-contribution-grid-snake.svg" />
+</picture>
 
 <!-- Tech Stack -->
 <h2 align="center">🛠 &nbsp;Tech Stack</h2>
@@ -43,7 +47,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 
-
 <!-- Analytics -->
 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center">
@@ -59,7 +62,6 @@
     </tr>
   </table>
 </p>        
-
  
 <!-- Contact -->
 <h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
