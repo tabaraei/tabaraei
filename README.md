@@ -9,9 +9,6 @@
 </p>
 
 <!-- snake -->
-<div align="center">
-  <img src="https://github.com/tabaraei/tabaraei/blob/main/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tabaraei/tabaraei/blob/main/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/tabaraei/tabaraei/blob/main/github-contribution-grid-snake.svg" />
