@@ -7,6 +7,14 @@
 <p align="center">
   Hey there! I'm a Python developer with over 2 years of experience in Data Science. Developed a dozen supervised and unsupervised tasks, and familiar with computer vision and NLP. Programmer since 2017, currently seeking a role in Data Science or Machine Learning.
 </p>
+<p align="center">
+  <a href="https://tabaraei.com/"><img src="https://img.shields.io/badge/-tabaraei.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tabaraei/"><img src="https://img.shields.io/badge/-tabaraei-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/13836545/tabaraei"><img src="https://img.shields.io/badge/-tabaraei- orange?style=flat&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=BOIhcKcAAAAJ"><img src="https://img.shields.io/badge/-Ali%20Tabaraei-4285F4?style=flat&logo=google-scholar&logoColor=white"/></a>
+  <a href="https://www.youtube.com/tabaraei"><img src="https://img.shields.io/badge/-tabaraei-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:tabaraei.work@gmail.com"><img src="https://img.shields.io/badge/-tabaraei.work@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <!-- snake -->
 <picture>
@@ -35,11 +43,11 @@
   <br />
   <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" alt="Neo4j">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/-TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorBoard">
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda">
-  <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/-TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorBoard">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
@@ -58,15 +66,4 @@
       </td>
     </tr>
   </table>
-</p>        
- 
-<!-- Contact -->
-<h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
-<p align="center">
-  <a href="https://tabaraei.com/"><img src="https://img.shields.io/badge/-tabaraei.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tabaraei/"><img src="https://img.shields.io/badge/-tabaraei-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/13836545/tabaraei"><img src="https://img.shields.io/badge/-tabaraei- orange?style=flat&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=BOIhcKcAAAAJ"><img src="https://img.shields.io/badge/-Ali%20Tabaraei-4285F4?style=flat&logo=google-scholar&logoColor=white"/></a>
-  <a href="https://www.youtube.com/tabaraei"><img src="https://img.shields.io/badge/-tabaraei-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:tabaraei.work@gmail.com"><img src="https://img.shields.io/badge/-tabaraei.work@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
