@@ -9,12 +9,10 @@
   Hey there! I'm a Python developer with over 2 years of experience in Data Science. Developed a dozen supervised and unsupervised tasks, and familiar with computer vision and NLP. Programmer since 2017, currently seeking a role in Data Science or Machine Learning.
 </p>
 
-
 <!-- snake -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://github.com/tabaraei/tabaraei/blob/main/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
-
 
 <!-- Tech Stack -->
 <h2 align="center">🛠 &nbsp;Tech Stack</h2>
