@@ -5,7 +5,7 @@
 
 <!-- About -->
 <p align="center">
-  Hey there! I'm a Python developer with over 2 years of experience in Data Science. Developed a dozen supervised and unsupervised tasks, and familiar with NLP and computer vision. Programmer since 2017, currently pursuing M.Sc. Computer Science in University of Milan.
+  Hey there! I'm a Python developer with over 2 years of experience in Data Science. Developed a dozen supervised and unsupervised tasks, and familiar with NLP and computer vision. Programmer since 2017, currently pursuing M.Sc. CS @ University of Milan.
 </p>
 <p align="center">
   <a href="https://tabaraei.com/"><img src="https://img.shields.io/badge/-tabaraei.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
