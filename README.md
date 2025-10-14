@@ -5,15 +5,15 @@
 
 <!-- About -->
 <p align="center">
-  Hey there! I'm a Python developer with over 2 years of experience in Data Science. Developed a dozen supervised and unsupervised tasks, and familiar with NLP and computer vision. Programmer since 2017, currently pursuing M.Sc. CS @ University of Milan.
+  Hey there! I’m a curious researcher with prior experience in Data Science, drawn to the intersection of explainable deep learning and domain generalization. I’ve developed plenty of supervised and unsupervised models, and I love working with acoustic, textual, and multimodal data in Health AI. I’ve been coding since 2017, and I’m currently pursuing a Ph.D. in Computer Science at the University of Milan.
 </p>
 <p align="center">
   <a href="https://tabaraei.com/"><img src="https://img.shields.io/badge/-tabaraei.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tabaraei/"><img src="https://img.shields.io/badge/-tabaraei-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/13836545/tabaraei"><img src="https://img.shields.io/badge/-tabaraei- orange?style=flat&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=BOIhcKcAAAAJ"><img src="https://img.shields.io/badge/-Ali%20Tabaraei-4285F4?style=flat&logo=google-scholar&logoColor=white"/></a>
-  <a href="https://www.youtube.com/tabaraei"><img src="https://img.shields.io/badge/-tabaraei-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:tabaraei.work@gmail.com"><img src="https://img.shields.io/badge/-tabaraei.work@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tabaraei/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/13836545/tabaraei"><img src="https://img.shields.io/badge/-Stack%20Overflow- orange?style=flat&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=BOIhcKcAAAAJ"><img src="https://img.shields.io/badge/-Google Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"/></a>
+  <a href="mailto:ali.tabaraei@unimi.it"><img src="https://img.shields.io/badge/-ali.tabaraei@unimi.it-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <!-- <a href="https://www.youtube.com/tabaraei"><img src="https://img.shields.io/badge/-tabaraei-FF0000?style=flat&logo=youtube&logoColor=white"/></a> -->
 </p>
 
 <!-- snake -->
@@ -59,7 +59,8 @@
     <tr>
       <td width="54.65%" align="right" valign="top">
         <img style="width: 100%;" src="https://github-readme-streak-stats-tabaraeis-projects.vercel.app/?user=tabaraei&theme=ayu-mirage" alt="Streak Stats" />
-        <img style="width: 100%;" src="https://github-readme-stats-tabaraei.vercel.app/api?username=tabaraei&show_icons=true&theme=ayu-mirage&hide=contribs,prs&include_all_commits=True&rank_icon=github" alt="Ali Tabaraei's GitHub Stats" />
+        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=tabaraei&show_icons=true&theme=ayu-mirage&hide=contribs,prs&include_all_commits=true&rank_icon=github" alt="Ali Tabaraei's GitHub Stats"/>
+        <!-- <img style="width: 100%;" src="https://github-readme-stats-tabaraei.vercel.app/api?username=tabaraei&show_icons=true&theme=ayu-mirage&hide=contribs,prs&include_all_commits=True&rank_icon=github" alt="Ali Tabaraei's GitHub Stats" /> -->
       </td>
       <td width="45.35%" align="left" valign="top">
         <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaraei&langs_count=8&theme=ayu-mirage&layout=donut&hide=html,css,mathematica&size_weight=0.6&count_weight=0.4" alt="Most Used Languages" />
